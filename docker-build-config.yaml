@@ -31,5 +31,3 @@ spec:
   - github:
       secret: 0149448c21604009
     type: GitHub
-status:
-  lastVersion: 0
